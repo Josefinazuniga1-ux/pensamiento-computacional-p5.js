@@ -15,8 +15,4 @@ Para esta entrega, se seleccionó una obra asimétrica compuesta por rectángulo
 * **Cómo tradujeron la imagen:** Con ayuda de Photoshop, ocupando las guias Hice un sistema de grilla para ir guandome de la ubicacion y con el cuenta gotas el color aproximado.
 * **Dificultades y soluccion:** lo mas dificil fue saber el lugar exacto de cada rectangulo, pero gracias a la ayuda de una grilla que cree, separando la obra en cuadrados, logre ubicarme mas o menos en el lienzo.
 
-## Tecnologías Utilizadas
-* [p5.js](https://p5js.org/) - Librería de JavaScript para programación creativa.
-* [GitHub](https://github.com/) - Control de versiones y documentación.
-
  pensamiento-computacional-p5.js
